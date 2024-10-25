@@ -1,1 +1,5 @@
-qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjk,
+asdfghjkl
+dfghjkl
+ghjklsdfghjk
+lzxcvbnm
